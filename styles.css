@@ -1,0 +1,21 @@
+h1, p {
+    display: flex;
+    align-content: space-around;
+    justify-content: center;
+}
+#survey-form {
+    display: block;
+    padding-top: 10px;
+    width: 100%;
+}
+
+input {
+padding: 0.5rem;
+
+border: 1px solid black;
+border-radius: 15px;
+}
+
+label {
+    padding: 0.5rem;
+}
